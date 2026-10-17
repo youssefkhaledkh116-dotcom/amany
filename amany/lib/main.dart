@@ -150,7 +150,7 @@ class SuccessPage extends StatelessWidget {
                 "بحبك يا الجيزاوي 💍❤️",
                 textAlign: TextAlign.center,
                 style: TextStyle(
-                  fontSize: 36,
+                  fontSize: 37,
                   fontWeight: FontWeight.bold,
                   color: Colors.redAccent,
                 ),
